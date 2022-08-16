@@ -1,3 +1,3 @@
-module github.com/ac/golang/api_commons
+module github.com/mars931003/api_commons
 
 go 1.18
